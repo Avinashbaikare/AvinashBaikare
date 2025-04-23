@@ -7,22 +7,22 @@
 <div style="display: flex; flex-direction: column,">
   
   <div style="display: flex; gap: 10px; justify-content: center;">
-    <a href="https://leetcode.com/vinayak2724/" target="_blank">
+    <a href="https://leetcode.com/AVI2001/" target="_blank">
       <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode Badge 1" height="100" width="100" />
     </a>
-    <a href="https://leetcode.com/vinayak2724/" target="_blank">
+    <a href="https://leetcode.com/AVI2001/" target="_blank">
       <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode Badge 2" height="100" width="100" />
     </a>
-    <a href="https://leetcode.com/vinayak2724/" target="_blank">
+    <a href="https://leetcode.com/AVI2001/" target="_blank">
       <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge 3" height="100" width="100" />
     </a>
-    <a href="https://leetcode.com/vinayak2724/" target="_blank">
+    <a href="https://leetcode.com/AVI2001/" target="_blank">
       <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge 4" height="100" width="100" />
     </a>
   </div>
 
   <div style="margin-top: 10px;">
-    <img src="https://leetcard.jacoblin.cool/vinayak2724?theme=dark&font=Nunito&ext=heatmap" 
+    <img src="https://leetcard.jacoblin.cool/AVI2001?theme=dark&font=Nunito&ext=heatmap" 
          alt="LeetCode Stats" height="300" width="1000" />
   </div>
 
